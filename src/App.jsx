@@ -71,7 +71,7 @@ const App = () => {
               </Menu.Item>
               <Menu.Item key="2" icon={<ThunderboltOutlined />}>
                 <a
-                  href="https://newzone.top/posts/2022-09-05-stable_diffusion_ai_painting.html"
+                  href="https://stable-diffusion-book.vercel.app/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -94,7 +94,7 @@ const App = () => {
               {screens.md && (
                 <Col style={{ display: "flex", alignItems: "center" }}>
                   <a
-                    href="https://discord.gg/PZTQfJ4GjX"
+                    href="https://discord.gg/4Hwbskaq"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -107,7 +107,7 @@ const App = () => {
               )}
               <Col>
                 <a
-                  href="https://github.com/rockbenben/img-prompt"
+                  href="https://github.com/adminlove520/Img_Promt"
                   target="_blank"
                   rel="noopener noreferrer"
                 >

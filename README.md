@@ -2,9 +2,9 @@
 
 IMGPrompt 是一个极简的图像提示词编辑器，专注于提示词文本组合，可用于 Stable Diffusion 和 Midjourney。它没有预设提示词效果图片，也不需要第三方支持。提示词来自网络收集和 [promptoMANIA](https://promptomania.com/midjourney-prompt-builder/)，标签样式参考了 [OpenPromptStudio](https://moonvy.com/apps/ops/)。
 
-即用链接：<https://prompt.newzone.top/>
+<!-- 即用链接：<https://prompt.newzone.top/>
 
-![image](https://user-images.githubusercontent.com/28252913/232390795-9e359df3-5775-49d8-88d2-d6025ae5624b.png)
+![image](https://user-images.githubusercontent.com/28252913/232390795-9e359df3-5775-49d8-88d2-d6025ae5624b.png) -->
 
 特点：
 
