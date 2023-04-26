@@ -80,7 +80,7 @@ const App = () => {
               </Menu.Item>
               <Menu.Item key="3" icon={<ExperimentOutlined />}>
                 <a
-                  href="https://www.aishort.top"
+                  href="http://chatgpt-shortcut.hopeless99.top/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
